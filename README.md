@@ -17,3 +17,5 @@ No deployment
 ## How to contribute
 
 Dont contribute. I am telling you dont!
+
+2014 Git.Training.
