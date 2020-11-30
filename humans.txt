@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Haris Papapdopoulos haris_twit
 
 # THANKS
 
