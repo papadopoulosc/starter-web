@@ -12,4 +12,6 @@ Just to learn git
 
 ## Deployment
 
+No deployment
+
 ## How to contribute
