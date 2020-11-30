@@ -15,3 +15,5 @@ Just to learn git
 No deployment
 
 ## How to contribute
+
+Dont contribute. I am telling you dont!
