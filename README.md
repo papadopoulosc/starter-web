@@ -22,3 +22,6 @@ Dont contribute. I am telling you dont!
 Please fork this repository.
 
 2014 Git.Training.
+
+##Copyright
+2014 git. All rights reserved
